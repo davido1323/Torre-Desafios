@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":22.916889190673829,"y":6.365172863006592,"z":-61.0625},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":56.34149932861328,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":-3.514068365097046,"y":-5.044168949127197,"z":-85.66015625},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":17.58563232421875,"orthographic":true}
+>>>>>>> David
